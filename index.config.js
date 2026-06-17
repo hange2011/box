@@ -76,6 +76,7 @@ var index_config_default = {
 ]},
   cms: {list: [
   {name: "🔞滴滴", address: "https://api.ddapi.cc/api.php/provide/vod"},
+  {name: "🔞小鸡", address: "https://api.xiaojizy.live/provide/vod"}, 
   {name: "🔞鸡坤", address: "https://jkunzyapi.com/api.php/provide/vod"},
   {name: "🔞TG资源", address: "https://tgzyz.pp.ua/api.php/provide/vod"},
   {name: "🔞越南", address: "https://vnzyz.com/api.php/provide/vod"},
